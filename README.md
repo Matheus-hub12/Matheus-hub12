@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 Matheus Lima Sousa Alves</h1>
 
-<!--
-**Matheus-hub12/Matheus-hub12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de <b>Engenharia de Computação</b> na Universidade São Francisco 🎓 <br>
+  Apaixonado por tecnologia, sempre em busca de aprender e evoluir como desenvolvedor.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🎓 Cursando Engenharia de Computação (USF)  
+- 📚 Atualmente aprendendo **Java, Spring Boot, React, AWS, HTML, CSS e JavaScript**  
+- 💻 Já desenvolvi trabalhos práticos com:
+  - Java (aplicações e APIs)  
+  - HTML & CSS (páginas web)  
+  - C# (exercícios e projetos acadêmicos)  
+  - Stack Fullstack (backend + frontend em desenvolvimento)  
+- 🌱 Sempre em busca de novos desafios para crescer como desenvolvedor  
+
+---
+
+## 🛠️ Tecnologias
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,aws,js,html,css,cs" height="50"/>
+</p>
+
+---
+
+## 🌎 Onde me encontrar
+<p align="center">
+  📧 <a href="mailto:matheuslisoal.contato@gmail.com">Email</a> • 
+  💼 <a href="https://www.linkedin.com/in/matheus-lima-b24649372/">LinkedIn</a> • 
+  🐙 <a href="https://github.com/Matheus-hub12">GitHub</a>
+</p>
